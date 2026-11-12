@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "kamauicare.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Kamaui",
+  "start_url": "https://kamauicare.vercel.app/",
+  "theme_color": "#ffffff"
+}
